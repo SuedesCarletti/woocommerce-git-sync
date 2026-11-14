@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:       WC Git Sync
- * Plugin URI:        https://github.com/your-repo/wc-git-sync
+ * Plugin URI: https://github.com/SuedesCarletti/woocommerce-git-sync
  * Description:       Gerencia múltiplos projetos Git/GitHub com sync bidirecional diretamente do painel WordPress.
  * Version:           2.0.1
- * Author:            EMPRESAX Dev
- * License:           Todos os direitos reservados / All rights reserved
+ * Author: Suedes Carletti
+ * License: Todos os direitos reservados / All rights reserved
  * Text Domain:       wc-git-sync
  * Requires at least: 5.6
  * Requires PHP:      7.2
